@@ -1,3 +1,5 @@
+В красивом виде: https://mineevmaxim.github.io/production-project-docs/
+
 ## Запуск проекта
 
 ```
